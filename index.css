@@ -1,0 +1,123 @@
+.bg {
+  background-image: url("images/crowd.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 15px;
+}
+
+body {
+	background-color: white;
+}
+
+h1 {
+	text-align: center;
+  	font-weight: bold;
+  	font-size: 65px;
+		padding: 10px;
+}
+
+
+img {
+	width: 100%
+}
+
+i {
+	width: 200px;
+	height: 50px;
+}
+
+.title {
+	text-shadow: 5px 5px black;
+	color: #123456;
+	font-size: 6em;
+	font-family: comic-sans;
+}
+
+.container {
+	background-color: black;
+	padding: 0;
+	padding-bottom: : 30px;
+	opacity: 75%;
+	box-sizing: border-box;
+	vertical-align:middle;
+}
+
+.container li {
+	width: 200px;
+	text-align: center;
+	padding-bottom: 25px;
+}
+
+.row {
+	padding-top: 30px;
+}
+
+.col-md-3 {
+	background-color: #123456;
+	opacity: 50%;
+  box-shadow: 15px 15px 10px black;
+}
+
+.col-md-5 {
+  margin-left: 30px;
+}
+
+.col-md-3 p {
+	opacity: 100%;
+	color: white;
+}
+
+.col-md-3 h2 {
+	text-shadow: 2px 2px black;
+}
+
+.col-md-5 figure {
+	margin-bottom: 50px;
+  margin-top: 5px;
+  outline: 5px solid #123456;
+  box-shadow: 15px 15px 10px black;
+}
+
+form {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.members figure {
+	width: 200px;
+	opacity: 100%;
+}
+
+col-md-2 h2 {
+  text-align: center;
+}
+
+.members p {
+	opacity: 100%;
+	color: white;
+}
+
+.members h2 {
+	text-shadow: 2px 2px black;
+}
+
+.members {
+	background-color: #123456;
+	opacity: 50%;
+  box-shadow: 15px 15px 10px black;
+  padding: 10px;
+}
+
+.members img {
+  text-align: center;
+  margin-left: 33px;
+  box-shadow: 15px 15px 10px black;
+
+}
+
+.col-md-12 a {
+  font-size: 23px;
+  font-family: garamond;
+}

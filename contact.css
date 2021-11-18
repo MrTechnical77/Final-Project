@@ -1,0 +1,126 @@
+.bg {
+  background-image: url("images/crowd.jpg");
+
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 15px;
+}
+
+.col-md-12 a {
+  font-size: 23px;
+  font-family: garamond;
+}
+
+.title {
+	padding-top: 20px;
+	text-shadow: 5px 5px black;
+	color: #123456;
+	background-image: url('images/klheader.jpg') 0 0;
+	font-size: 6em;
+	font-family: comic-sans;
+}
+
+td {
+    font-size: 12pt;
+    color: black;
+      border: 1px solid black;
+      padding: 8px;
+}
+
+h1{
+    font-size: 30pt;
+    text-align: center;
+    color: black;
+      background-color: white;
+}
+
+.title {
+
+    text-shadow: 5px 5px black;
+    color: #123456;
+    background-image: url('images/klheader.jpg') 0 0;
+    font-size: 6em;
+    font-family: comic-sans;
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+    opacity: 75%;
+    box-sizing: border-box;
+    vertical-align:middle;
+}
+
+.container li {
+    width: 200px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.disc {
+  padding: 30px 0 30px 0;
+  margin-top: 10px;
+  background-color: #272b30;
+  color: #123456;
+  text-shadow: 15px 10px 10px black;
+  font-family: comic-sans;
+}
+
+.center {
+  background-color: #272b30;
+}
+
+
+h1 {
+
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.col-md-12 a {
+  font-size: 23px;
+  font-family: garamond;
+}
+
+.title {
+    text-shadow: 5px 5px black;
+    color: #123456;
+    background-image: url('images/klheader.jpg') 0 0;
+    font-size: 6em;
+    font-family: comic-sans;
+}
+
+.container {
+    background-color: black;
+    opacity: 75%;
+    box-sizing: border-box;
+    vertical-align:middle;
+}
+
+.container li {
+    width: 200px;
+    text-align: center;
+}
+
+.row {
+    padding-top: 30px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.con {
+  background-color: rgba(0,0,0,0);
+  color: white;
+  text-shadow: 5px 5px 5px black;
+}

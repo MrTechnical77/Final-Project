@@ -1,0 +1,122 @@
+.bg {
+  background-image: url("images/tour.jpg");
+
+
+  height: 100%;
+
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 15px;
+}
+
+.col-md-12 a {
+  font-size: 23px;
+  font-family: garamond;
+}
+
+.title {
+	padding-top: 20px;
+	text-shadow: 5px 5px black;
+	color: #123456;
+	background-image: url('images/tour.jpg') 0 0;
+	font-size: 6em;
+	font-family: comic-sans;
+}
+
+td {
+    font-size: 12pt;
+    color: black;
+      border: 1px solid black;
+      padding: 8px;
+}
+
+h1{
+    font-size: 30pt;
+    text-align: center;
+    color: black;
+      background-color: white;
+}
+
+.title {
+
+    text-shadow: 5px 5px black;
+    color: #123456;
+    background-image: url('images/tour.jpg') 0 0;
+    font-size: 6em;
+    font-family: comic-sans;
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+    padding: 0;
+    padding-bottom: : 30px;
+    opacity: 75%;
+    box-sizing: border-box;
+    vertical-align:middle;
+}
+
+.container li {
+    width: 200px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.row {
+    padding-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #272b30;
+}
+
+.disc {
+  font-size: 5em;
+  padding: 30px 0 30px 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #272b30;
+  color: #123456;
+  text-shadow: 15px 10px 10px black;
+  font-family: comic-sans;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+td, th {
+  text-align:  center;
+}
+
+td {
+  font-size: 2em;
+  color: #123456;
+  text-shadow: 5px 5px 5px black;
+}
+
+th {
+  padding-bottom: 20px;
+  font-size: 2.2em;
+}
+
+.center {
+  con
+}
+
+table {
+  border: 5px solid black;
+}
+
+.tab {
+  margin:  auto;
+  background-color:#272b30;
+  width:80%;
+
+}
